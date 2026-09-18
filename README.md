@@ -1,8 +1,6 @@
 # FreshBite – Frontend
 
-FreshBite is a web application developed as part of the Advanced Web Applications course at King Saud University.
-
-The platform is designed to help users discover and share healthy recipes through an organized and interactive recipe platform. Recipes are grouped into different categories, including seafood, meat, and vegan dishes, allowing users to easily explore recipes based on their preferences.
+FreshBite is a web application designed to help users discover and share healthy recipes through an organized and interactive recipe platform. Recipes are grouped into different categories, including seafood, meat, and vegan dishes, allowing users to easily explore recipes based on their preferences.
 
 This repository contains the frontend implementation of the FreshBite project.
 
@@ -27,6 +25,11 @@ The frontend focuses on the visual design, page structure, navigation, and clien
 - HTML
 - CSS
 - JavaScript
+
+## Tools
+
+- Visual Studio Code
+- GitHub
 
 ## Live Frontend Demo
 
